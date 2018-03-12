@@ -4,8 +4,8 @@ We applied the transformations manually, on real code taken from an open-source 
 we reviewed four issues: 
 
 1) investigate how well the transformations may contribute to improving the design of exiting code, through any of the refactoring techniques mentioned in class.
-2) compare the various algorithms to see where the strengths of a given algorithm help to overcome difficulties in refactoring caused by the weaknesses of the other algorithmsץ
-3) identify limitations of the current algorithmsץ
+2) compare the various algorithms to see where the strengths of a given algorithm help to overcome difficulties in refactoring caused by the weaknesses of the other algorithms.
+3) identify limitations of the current algorithms.
 4)propose new ways of using them for performing refactorings that were not mentioned in class.
 
 
